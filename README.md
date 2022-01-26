@@ -2,7 +2,10 @@
 
 Papers on Graph Pooling 
 
-| Title                                                        |      Conf.      | Type                        | Task                                                         | Code                                                         | Dataset                                                      |
+
+![](https://github.com/LiuChuang0059/Complex-Network/blob/master/pooling.png)
+
+| Title                                                        |      Venue      | Type                        | Task                                                         | Code                                                         | Dataset                                                      |
 | :----------------------------------------------------------- | :-------------: | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. Set2set: [Order Matters: Sequence to Sequence for Sets](https://arxiv.org/abs/1511.06391) |    ICLR 2016    |                             |                                                              | [PyG](https://github.com/pyg-team/pytorch_geometric/blob/master/benchmark/kernel/set2set.py) |                                                              |
 | 2. SortPool:  [An End-to-End Deep Learning Architecture for Graph Classification](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf) |    AAAI 2018    |                             |                                                              | [1.PyG](https://github.com/pyg-team/pytorch_geometric/blob/master/benchmark/kernel/sort_pool.py), [2.Origin-matlab](https://github.com/muhanzhang/DGCNN), [3.Origin-pytorch](https://github.com/muhanzhang/pytorch_DGCNN) |                                                              |
