@@ -9,15 +9,33 @@ Papers on Graph Pooling
 --------------------
 * [Survey](#Survey)
 
-* [Flat Pooling](#Global_Pooling)
+* [Flat Pooling](#Flat_Pooling)
 
 * [Hierarchical Pooling](#Hierarchical_Pooling)
     * [Node Clustering Pooling](#Node_Clustering_Pooling)
     * [Node Drop Pooling](#Node_Drop_Pooling)
     * [Other Pooling](#Other_Pooling)
 
-## Global_Pooling
 
+## Survey
+
+1. [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/hash/1764183ef03fc7324eb58c3842bd9a57-Abstract.html)🌟
+
+2.
+
+
+
+## Flat_Pooling
+
+
+| Title                                                                                                                                          | Venue      | Task                                                                 | Code                                                                                                                                                                                                                      | Dataset                                                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 1. Set2set: [Order Matters: Sequence to Sequence for Sets](https://arxiv.org/abs/1511.06391)                                                   | ICLR 2016  |                                                                      | [PyG](https://github.com/pyg-team/pytorch_geometric/blob/master/benchmark/kernel/set2set.py)                                                                                                                              |                                                                                                                  |
+| 2. SortPool:  [An End-to-End Deep Learning Architecture for Graph Classification](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf) | AAAI 2018  |                                                                      | [1.PyG](https://github.com/pyg-team/pytorch_geometric/blob/master/benchmark/kernel/sort_pool.py), [2.Origin-matlab](https://github.com/muhanzhang/DGCNN), [3.Origin-pytorch](https://github.com/muhanzhang/pytorch_DGCNN) |                                                                                                                  |
+| 3. DEMO-Net: [Degree-specific Graph Neural Networks for Node and Graph Classification](https://dl.acm.org/doi/10.1145/3292500.3330950)         | KDD 2019   | 1. Graph Classification                                              | [TensorFlow](https://github.com/jwu4sml/DEMO-Net)                                                                                                                                                                         | MUTAG, PTC PROTEINS,ENZYMES                                                                                      |
+| 4.SOPool:  [Second-Order Pooling for Graph Neural Networks](https://arxiv.org/abs/2007.10467)                                                  | TPAMI 2020 | 1. Graph Classification                                              | None                                                                                                                                                                                                                      | MUTAG, PTC PROTEINS, NCI1, COLLAB, IMDB-B, IMDB-M, REDDIT-BINARY,REDDIT-MULTI,                                   |
+| 5. GMT: [Accurate Learning of Graph Representations with Graph Multiset Pooling.](https://openreview.net/forum?id=JHcqXGaqiGn) 🌟               | ICLR 2021  | 1. Graph Classification  2. Graph Reconstruction 3. Graph Generation | [1.Origin-Pytorch]( https://github.com/JinheonBaek/GMT)                                                                                                                                                                   | D&D, PROTEINS,  MUTAG, IMDB-B, IMDB-M, COLLAB, HIV, Tox21, ToxCast, BBBP, ZINC(Reconstruction),  QM9(Generation) |
+| 6. PAS:  [Pooling Architecture Search for Graph Classification](http://arxiv.org/abs/2108.10587)                                               | ArXiv 2021 | 1.Graph Classification                                               | None                                                                                                                                                                                                                      |                                                                                                                  |
 
 ## Hierarchical_Pooling
 
