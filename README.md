@@ -3,7 +3,7 @@
 Papers on Graph Pooling 
 
 
-![](https://github.com/LiuChuang0059/graph-pooling-papers/blob/master/pooling.png)
+![](https://github.com/LiuChuang0059/graph-pooling-papers/blob/main/pooling.png)
 
 | Title                                                        |      Venue      | Type                        | Task                                                         | Code                                                         | Dataset                                                      |
 | :----------------------------------------------------------- | :-------------: | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
