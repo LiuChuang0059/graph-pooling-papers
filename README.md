@@ -5,6 +5,31 @@ Papers on Graph Pooling
 
 ![](https://github.com/LiuChuang0059/graph-pooling-papers/blob/main/pooling.png)
 
+
+--------------------
+* [Survey](#Survey)
+
+* [Flat Pooling](#Global_Pooling)
+
+* [Hierarchical Pooling](#Hierarchical_Pooling)
+    * [Node Clustering Pooling](#Node_Clustering_Pooling)
+    * [Node Drop Pooling](#Node_Drop_Pooling)
+    * [Other Pooling](#Other_Pooling)
+
+## Global_Pooling
+
+
+## Hierarchical_Pooling
+
+
+### Node_Clustering_Pooling
+
+
+### Node_Drop_Pooling
+
+
+### Other_Pooling
+
 | Title                                                        |      Venue      | Type                        | Task                                                         | Code                                                         | Dataset                                                      |
 | :----------------------------------------------------------- | :-------------: | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. Set2set: [Order Matters: Sequence to Sequence for Sets](https://arxiv.org/abs/1511.06391) |    ICLR 2016    |                             |                                                              | [PyG](https://github.com/pyg-team/pytorch_geometric/blob/master/benchmark/kernel/set2set.py) |                                                              |
