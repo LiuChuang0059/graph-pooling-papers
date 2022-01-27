@@ -1,9 +1,17 @@
 #  Papers on Graph Pooling
 
+A curated list of papers on graph pooling (More than 85 papers reviewed).
+
 ![](https://github.com/LiuChuang0059/graph-pooling-papers/blob/main/pooling.png)
 
 
 --------------------
+
+We provide a taxonomy of existing papers as shown in the above figure.
+
+Papers in each category are sorted by their uploaded dates in descending order.
+
+
 * [Survey](#Survey)
 
 * [Flat Pooling](#Flat_Pooling)
@@ -19,9 +27,11 @@
 
 ## Survey Papers
 
-1. [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/hash/1764183ef03fc7324eb58c3842bd9a57-Abstract.html)🌟
+1. [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/hash/1764183ef03fc7324eb58c3842bd9a57-Abstract.html) NIPS 2020.
 
-2.
+2. [Understanding Pooling in Graph Neural Networks](https://arxiv.org/abs/2110.05292) ArXiv 2021.
+
+3. [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/pdf?id=HygDF6NFPB) ICLR 2020.
 
 ---------------------------
 
