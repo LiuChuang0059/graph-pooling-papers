@@ -1,7 +1,4 @@
-# graph-pooling-papers
-
-Papers on Graph Pooling 
-
+#  Papers on Graph Pooling
 
 ![](https://github.com/LiuChuang0059/graph-pooling-papers/blob/main/pooling.png)
 
@@ -18,7 +15,9 @@ Papers on Graph Pooling
 
 * [Applications](#Applications)
 
-## Survey
+---------------------
+
+## Survey Papers
 
 1. [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/hash/1764183ef03fc7324eb58c3842bd9a57-Abstract.html)🌟
 
