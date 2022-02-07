@@ -1,6 +1,6 @@
 #  Papers on Graph Pooling
 
-A curated list of papers on graph pooling (More than 110 papers reviewed).
+A curated list of papers on graph pooling (More than 130 papers reviewed).
 
 ![](https://github.com/LiuChuang0059/graph-pooling-papers/blob/main/pooling.png)
 
@@ -12,7 +12,7 @@ We provide a taxonomy of existing papers as shown in the above figure.
 Papers in each category are sorted by their uploaded dates in descending order.
 
 
-* [Analysis](#Analysis_Papers)
+* [Analysis Papers](#Analysis_Papers)
 
 * [Flat Pooling](#Flat_Pooling)
 
@@ -27,13 +27,13 @@ Papers in each category are sorted by their uploaded dates in descending order.
 
 ## Analysis_Papers
 
-1. [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/hash/1764183ef03fc7324eb58c3842bd9a57-Abstract.html) NIPS 2020.
+1. [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/hash/1764183ef03fc7324eb58c3842bd9a57-Abstract.html), NIPS 2020.
 
-2. [Understanding Pooling in Graph Neural Networks](https://arxiv.org/abs/2110.05292) ArXiv 2021.
+2. [Understanding Pooling in Graph Neural Networks](https://arxiv.org/abs/2110.05292), ArXiv 2021.
 
-3. [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/pdf?id=HygDF6NFPB) ICLR 2020.
+3. [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/pdf?id=HygDF6NFPB), ICLR 2020.
 
-4. [Graph Signal Processing and Deep Learning](https://ieeexplore.ieee.org/abstract/document/9244181/) IEEE Signal Processing Magazine.
+4. [Graph Signal Processing and Deep Learning](https://ieeexplore.ieee.org/abstract/document/9244181/), IEEE Signal Processing Magazine 2020.
 
 ---------------------------
 
