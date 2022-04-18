@@ -12,7 +12,7 @@ We provide a taxonomy of existing papers as shown in the above figure.
 Papers in each category are sorted by their uploaded dates in descending order.
 
 
-If you find this repository useful for your research, please consider citing
+If you find this repository useful for your research, please consider citing our paper [[arXiv](https://arxiv.org/abs/2204.07321)]
 
 ```
 @article{liu2022graph,
