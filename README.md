@@ -14,7 +14,7 @@ Papers in each category are sorted by their uploaded dates in descending order.
 
 If you find this repository useful for your research, please consider citing
 
-"""bash
+"""
 @misc{liu2022graph,
     title={Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities},
     author={Chuang Liu and Yibing Zhan and Chang Li and Bo Du and Jia Wu and Wenbin Hu and Tongliang Liu and Dacheng Tao},
