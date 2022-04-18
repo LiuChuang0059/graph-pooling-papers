@@ -12,6 +12,18 @@ We provide a taxonomy of existing papers as shown in the above figure.
 Papers in each category are sorted by their uploaded dates in descending order.
 
 
+If you find this repository useful for your research, please consider citing
+
+"""bash
+@misc{liu2022graph,
+    title={Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities},
+    author={Chuang Liu and Yibing Zhan and Chang Li and Bo Du and Jia Wu and Wenbin Hu and Tongliang Liu and Dacheng Tao},
+    year={2022},
+    journal={arXiv preprint arXiv:2204.07321},
+}
+"""
+
+
 * [Analysis Papers](#Analysis_Papers)
 
 * [Flat Pooling](#Flat_Pooling)
