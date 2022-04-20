@@ -1,4 +1,4 @@
-#  Papers on Graph Pooling
+#  Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities
 
 A curated list of papers on graph pooling (More than 130 papers reviewed).
 
